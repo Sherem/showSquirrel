@@ -1,0 +1,25 @@
+{
+  "name": "showsquirrel",
+  "version": "1.0.0",
+  "description": "The simple api to show squirrel or bird pictures",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sherem/showSquirrel.git"
+  },
+  "keywords": [
+    "squirrel",
+    "dog",
+    "photo",
+    "api"
+  ],
+  "author": "Dmitry Sheremet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sherem/showSquirrel/issues"
+  },
+  "homepage": "https://github.com/Sherem/showSquirrel#readme"
+}
